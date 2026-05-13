@@ -2,3 +2,5 @@ numpy
 matplotlib
 requests
 pillow
+scikit-image
+scipy
